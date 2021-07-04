@@ -12,6 +12,8 @@
         <module>orcjett-base</module>
         <module>orcjett-fx</module>
         <module>orcjett-gl</module>
+        <module>orcjett-data</module>
+        <module>orcjett-math</module>
     </modules>
 
     <properties>
